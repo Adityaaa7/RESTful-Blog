@@ -1,0 +1,11 @@
+{
+  "name": "project6_restful_blog",
+  "version": "1.0.0",
+  "description": "\"restful blog API\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aditya",
+  "license": "ISC"
+}
